@@ -1,6 +1,8 @@
 Hackaday Fubarino Contest
 =========================
 
+![Breadboard Circuit](https://github.com/Hack-a-Day/had-fubarino-contest/raw/master/extras/had-fubarino-contest.png "Hackaday URL as clock easter egg")
+
 This is an example entry for the Hackaday Fubarino Contest which will be announced at the beginning of December 2013. The contest challenges readers to add an easter egg to their microcontroller projects which displays the Hackaday URL (http://hackaday.com). The goal is to be clever and to document your easter egg.
 
 Elite Clock Easter Egg
@@ -14,4 +16,3 @@ Let's See What YOU Can Do
 -------------------------
 
 Now it's your turn. Dust off one of your microcontroller projects and [put together your own contest entry](http://hackaday.com)!
-
